@@ -1,4 +1,4 @@
-CpuGen (TM)
+CpuGen (TM)	by gferrante@opencores.org
 
 1) Unzip cpugen.zip (ex. in C:\)
 
